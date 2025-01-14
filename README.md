@@ -1,5 +1,5 @@
 # Sobre mim:
-🔭 Atualmente trabalho com suporte ao usuário e desenvolvimento<br>🌱 Estudando desenvolvimento FullStack JavaScript<br>🤖 Desenvolvedor de automações utilizando Python<br>🐘 Conhecimento básico na linguagem PHP
+🔭 Atualmente trabalho com esenvolvimento full stack<br>🌱 Estudando inglês e espanhol<br>🤖 Desenvolvedor de automações utilizando Python<br>🐘 Conhecimento em serviços de automação de processos e web scrapping de dados na internet
 
 
 ## 🌐 Socials:
