@@ -1,5 +1,5 @@
 # Sobre mim:
-🔭 Atualmente trabalho com esenvolvimento full stack<br>🌱 Estudando inglês e espanhol<br>🤖 Desenvolvedor de automações utilizando Python<br>🐘 Conhecimento em serviços de automação de processos e web scrapping de dados na internet
+🔭 Atualmente trabalho com desenvolvimento full stack<br>🌱 Estudando inglês, espanhol e italiano<br>🤖 Desenvolvedor de automações utilizando Python<br>🐘 Conhecimento em serviços de automação de processos e web scrapping de dados na internet
 
 
 ## 🌐 Socials:
